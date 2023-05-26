@@ -1,16 +1,20 @@
-# GalaxyTheme README
+# GalaxyTheme+ <img align="center" alt="galaxytheme+" height="100" width="100" src="assets/galaxia.png">
 
-## Working with Markdown
+Dark theme with non-cloying colors inspired by nebula colors.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![galaxytheme+](https://user-images.githubusercontent.com/21210172/241114160-909a3d1f-8376-47af-90b3-79119ed2aa0f.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Palette Colors
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+| Colors         | Hexadecimal | Preview                                                     |
+| -------------- | ---------   | ------------------------------------------------------------|
+| Details        |  `#5352ED`  | ![Details](assets/palette/BaseColorDatails.png)            |
+| Background     |  `#202024`  | ![Background](assets/palette/Background.png)               |
+| Numeric        |  `#ffffff`  | ![Numeric](assets/palette/Numeric.png)                     |
+| String         |  `#FFDE59`  | ![String](assets/palette/String.png)                       |
+| Comment        |  `#53CFFF`  | ![Comment](assets/palette/Comment.png)                     |
+| Function       |  `#E796FF`  | ![Function](assets/palette/Function.png)                   |
+| Blue           |  `#53CFFF`  | ![Blue](assets/palette/Blue.png)                           |
+| Pink           |  `#FB2189`  | ![Pink](assets/palette/Pink.png)                           |
+| Orange         |  `#FF9435`  | ![Orange](assets/palette/Orange.png)                       |
+| Green          |  `#53CFFF`  | ![Green](assets/palette/Green.png)                         |
