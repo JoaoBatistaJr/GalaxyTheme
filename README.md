@@ -2,7 +2,7 @@
 
 Dark theme with non-cloying colors inspired by nebula colors.
 
-![galaxytheme+](https://user-images.githubusercontent.com/21210172/241114160-909a3d1f-8376-47af-90b3-79119ed2aa0f.png)
+![galaxytheme+](assets/galaxytheme+.png)
 
 # Palette Colors
 
