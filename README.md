@@ -1,6 +1,6 @@
-# GalaxyTheme+ <img align="center" alt="galaxytheme+" height="100" width="100" src="assets/galaxia.png">
+# GalaxyTheme+ <img align="center" alt="galaxytheme+" height="100" width="100" src="assets/galaxia.png"> for [Visual Studio Code](https://code.visualstudio.com)
 
-Dark theme with non-cloying colors inspired by nebula colors.
+Dark theme for [Visual Studio Code](https://code.visualstudio.com) with non-cloying colors inspired by nebula colors.
 
 ![galaxytheme+](assets/galaxytheme+.png)
 
