@@ -1,8 +1,8 @@
 {
   "name": "GalaxyTheme",
-  "displayName": "GalaxyTheme+",
+  "displayName": "Galaxy+",
   "description": "Tema dark, simples com cores não enjoativas inspiradas em cores de nebulosas.",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "JoaoBatistaJr",
   "engines": {
     "vscode": "^1.78.0"
