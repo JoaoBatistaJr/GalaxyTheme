@@ -2,7 +2,7 @@
   "name": "GalaxyTheme",
   "displayName": "Galaxy+",
   "description": "Tema dark, simples com cores não enjoativas inspiradas em cores de nebulosas.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "JoaoBatistaJr",
   "engines": {
     "vscode": "^1.78.0"
@@ -12,13 +12,11 @@
   ],
   "icon": "assets/galaxia.png",
   "contributes": {
-    "themes": [
-      {
-        "label": "GalaxyTheme+",
-        "uiTheme": "vs-dark",
-        "path": "./themes/GalaxyTheme+-color-theme.json"
-      }
-    ]
+    "themes": [{
+      "label": "GalaxyTheme+",
+      "uiTheme": "vs-dark",
+      "path": "./themes/GalaxyTheme+-color-theme.json"
+    }]
   },
   "galleryBanner": {
     "color": "#5352ED",
