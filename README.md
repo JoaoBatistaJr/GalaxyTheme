@@ -24,7 +24,7 @@ Dark theme for [Visual Studio Code](https://code.visualstudio.com) with friendly
 | Syntax         | Hex         | RGB           | HSL             | Preview                                            |
 | -------------- | ----------- | ------------- |---------------- |--------------------------------------------------- |
 | Numbers        |  `#FFFFFF`  | `255 255 255` | `0° 0% 100%`    | ![Numbers](assets/palette/Numbers.png)             |
-| KeyWorks       |  `#E796FF`  | `231 150 255` | `283° 100% 79%` | ![KeyWorks](assets/palette/KeyWorks.png)           |
+| KeyWorks       |  `#E796FF`  | `231 150 255` | `283° 100% 79%` | ![KeyWorks](assets/palette/Keyworks.png)           |
 | Strings        |  `#FFDE59`  | `255 222 89`  | `220° 6% 53%`   | ![Strings](assets/palette/Strings.png)             |
 | Comments       |  `#7F848E`  | `127 132 142` | `48° 100% 67%`  | ![Comments](assets/palette/Comments.png)           |
 | Variables      |  `#FB2189`  | `251 33 137`  | `331° 96% 56%`  | ![Variables](assets/palette/Variables.png)         |
