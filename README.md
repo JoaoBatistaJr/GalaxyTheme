@@ -41,3 +41,4 @@ The galaxy+ theme was created using [Yo Code](https://vscode-docs.readthedocs.io
 
 ## License
 [MIT License](./LICENSE) © Galaxy+ Theme
+
